@@ -1,0 +1,56 @@
+.mainDiv {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 5px;
+    margin: 10px 2px;
+    border: 1px solid rgb(235, 227, 227);
+    border-radius: 5px;
+    width: 600px;
+    height: 100px;
+}
+
+.date {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 2px;
+    background-color: rgb(175, 149, 206);
+    padding: 10px 30px;
+    margin: 5px;
+}
+
+.title {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 2px;
+    background-color: lightpink;
+    padding: 10px 30px;
+    margin: 5px;
+}
+
+.amount {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 2px;
+    background-color: rgb(216, 158, 117);
+    margin: 30px;
+    padding: 10px 30px;
+    margin: 5px;
+}
+
+.input_form {
+    border: 2px dashed darkgoldenrod;
+    margin-bottom: 30px;
+}
+
+.parent_div{
+    padding: 10px;
+}
+
+.year{
+    font-weight: 600;
+    padding: 6px;
+}
+.month{
+}
+.day{
+    padding: 6px 15px;
+}

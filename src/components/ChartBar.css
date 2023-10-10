@@ -1,0 +1,9 @@
+.mainCol{
+    display: flex;
+}
+.expHeight{
+    width: 17px;
+    border: 1px solid black;
+    margin: 10px;
+    height: 10rem;
+}
